@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  color: grey;
+}
+
+.mycard{
+  border-radius: 51px!;
+  background: #ffffff!;
+  box-shadow:  19px 19px 67px #b8b8b8,
+              -19px -19px 67px #ffffff!;
+}
+
+body{
+  background-color: #fffafa;
+}
+
+.Title{
+  font-family: 'Lucida Sans';
+  font-size: 100px;
+  -webkit-text-stroke: 3px black;  
+}
+
+.App-header {
+  background-image: url("https://binaryfortressdownloads.com/Download/WPF/Images/18656/WallpaperFusion-the-cast-of-futurama-1680x480.jpg");
+  background-color: #282c34;
+  min-height: 20vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
